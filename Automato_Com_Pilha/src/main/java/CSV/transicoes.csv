@@ -1,0 +1,5 @@
+ESTADO;CASO_A;CASO_B;FINAL;DESEMPILHA;EMPILHA;
+q0;q1;q2;n;-;X;
+q1;qf;q2;n;-;X;
+q2;q1;qf;n;X;-;
+qf;qf;qf;s;-;-;
